@@ -31,7 +31,7 @@ Desenvolvedor apaixonado por criar soluções eficientes e aprender novas tecnol
 ## 📫 Como me encontrar
 
 - **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- **Email:** [seu-email@exemplo.com](evertonsouza3458@gmail.com)
 
 ---
 <p align="center">
