@@ -32,8 +32,3 @@ Desenvolvedor apaixonado por criar soluções eficientes e aprender novas tecnol
 
 
 - **Email:** [evertonsouza3458@gmail.com](evertonsouza3458@gmail.com)
-
----
-<p align="center">
-  "O código limpo sempre parece que foi escrito por alguém que se importa." — Robert C. Martin
-</p>
