@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o Everton 👋
 
-<!--
-**evertonSz244/evertonSz244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor apaixonado por criar soluções eficientes e aprender novas tecnologias. Atualmente, foco meu aprendizado e projetos no ecossistema de desenvolvimento moderno, transitando entre back-end robusto e front-end dinâmico.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Linguagens de Programação
+- **Java:** Desenvolvimento back-end robusto e sistemas escaláveis.
+- **Kotlin:** Desenvolvimento moderno para Android e JVM.
+- **TypeScript:** Aplicações web tipadas e seguras com foco em React.
+- **Lua:** Scripting rápido e integração de sistemas (como mods e automação).
+
+### 🛠️ Ecossistema Técnico
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+
+---
+<p align="center">
+  "O código limpo sempre parece que foi escrito por alguém que se importa." — Robert C. Martin
+</p>
