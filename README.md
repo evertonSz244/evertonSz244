@@ -22,8 +22,9 @@ Desenvolvedor apaixonado por criar soluções eficientes e aprender novas tecnol
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evertonSz244&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonSz244&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/github/followers/evertonSz244?label=Seguidores&style=for-the-badge&color=7F52FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/evertonSz244?label=Estrelas%20Totais&style=for-the-badge&color=ED8B00" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/evertonSz244/evertonSz244?label=Repo%20Size&style=for-the-badge&color=007ACC" alt="Repo Size" />
 </p>
 
 ---
